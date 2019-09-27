@@ -64,7 +64,7 @@ plt.imshow(line_image)
 
 
 
-![png](output_0_1.png)
+![png](img/output_0_1.png)
 
 
 在遮罩范围内，将白色像素点遮罩为红色像素。
